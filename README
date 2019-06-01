@@ -1,3 +1,10 @@
+Fork of the original Surf browser by suckless.org
+Patches:
+    bookmarks
+    searchengines
+
+-----------------------------------------------------------------------
+
 surf - simple webkit-based browser
 ==================================
 surf is a simple Web browser based on WebKit/GTK+.
